@@ -21,3 +21,7 @@
 2. ss code sama output
 * <img src="./ss/ssnomor1.png">
 cb dah git oke siap
+3. Ss
+* <img src="./ss/ssnomor2.png">
+kalo dah gini sdh masuk kah? otomatis?
+oke
