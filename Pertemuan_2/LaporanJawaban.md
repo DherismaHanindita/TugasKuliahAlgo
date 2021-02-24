@@ -80,15 +80,39 @@ hargaSatuan = hs;
 }
 2.	Mengisi konstruktor yang tidak berparameter pada class main
 3.	Barang b3 = new barang ();
-B3.namaBarang = “ Wifi”;
-B3.jenisBarang = “4G”;
-B3.stok = 1;
-B3.hargaSatuan = 300000;
-B3.kurangStok(1);
+B3.namaBarang = “Balon”;
+B3.jenisBarang = “Mainan”;
+B3.stok = 4;
+B3.hargaSatuan = 12000;
+B3.kurangStok(2);
 B3.tambahStok(5);
 B3.tampilBarang();
 Int hargaTotal = b3.hitungHargaTotal(2);
 Sytem.out.println(“Harga 2 buah =” + hargaTotal)
 
 ## 2.5 Praktikum
-1. 
+1. Lingkaran
+Hasil 
+* <img src="./ss/l1.jpeg">
+* <img src="./ss/l2.jpeg">
+2. Video Game
+Diagram Class
+* <img src="./ss/diagramClass.jpeg">
+Hasil 
+* <img src="./ss/v1.jpeg">
+* <img src="./ss/v2.jpeg">
+* <img src="./ss/v3.jpeg">
+* <img src="./ss/v4.jpeg">
+3. Barang
+* <img src="./ss/b1.jpeg">
+* <img src="./ss/b2.jpeg">
+* <img src="./ss/b3.jpeg">
+* <img src="./ss/b4.jpeg">
+4. PacMan
+Hasil
+* <img src="./ss/p1.jpeg">
+Hasil main
+* <img src="./ss/pcmn1.jpeg">
+* <img src="./ss/pcmn2.jpeg">
+
+
