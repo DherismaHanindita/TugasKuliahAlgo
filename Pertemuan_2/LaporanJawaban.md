@@ -18,4 +18,5 @@ bilangan int?
 8. Menurut Anda, mengapa method tambahStok() memiliki tipe data void?
 
 Jawaban
-1. 
+1. Dher
+* <img src="./ss/ssnomor1.png">
