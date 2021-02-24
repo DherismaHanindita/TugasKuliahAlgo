@@ -2,13 +2,14 @@
 ##### Dherisma Hanindita Utami
 ##### TI 1H_2041720018_09
 
-## Praktikum 2.2
-### Percobaan 2.2.1
+## 2.2 Praktikum
+### 2.2.1 Percobaan 
 tidak dapat dijalankan karena tidak memiliki nilai main pada hasil codingannya
-### Hasil Percobaan 2.2.2
+### 2.2.2 Hasil Percobaan 
  * <img src="./ss/ssPraktikum2.2.2.jpeg">
  Hasil yang muncul akan seperti di atas
-### Pertanyaan 2.2.3
+
+### 2.2.3 Pertanyaan 
 1. Sebutkan 2 karakteristik class/objek!
 2. Kata kunci apakah yang digunakan untuk mendeklarasikan class?
 3. Perhatikan class Barang yang ada di Praktikum di atas, ada berapa atribut yang dimiliki oleh class
@@ -37,8 +38,15 @@ tersebut? Sebutkan! Dan pada baris berapa saja deklarasi atribut dilakukan?
 
 
 
-## Praktikum 2.3
-### Pertanyaan 2.3.3
+## 2.3 Praktikum
+### 2.3.1 Percobaan
+* <img src="./ss/ssPercobaan2.3.1.jpeg">
+
+### 2.3.2 Hasil Percobaan
+Hasil yang di dapat akan sama dengan modul Jobsheet dan tidak ada pemberitahuan, karena nilai fungsi main sudah dijalankan di dalam program sehingga dapat memunculkan hasil output
+* <img src="./ss/ssPercobaan2.3.2.jpeg">
+
+### 2.3.3 Pertanyaan 
 1. Pada class BarangMain, pada baris berapakah proses instansiasi dilakukan? Dan apa nama objek
 yang dihasilkan?
 2. Bagaimana cara mengakses atribut dan method dari suatu objek?
@@ -47,8 +55,14 @@ Jawaban
 1. Pada baris ke 6, terdapat instansiasi objek pada class barang dengan nama objek b1. Dengan syntax barang b1 = new barang();
 2.	Dengan cara  menginstansiasi barang b1 = new barang();
 
-## Praktikum 2.4
-### Pertanyaan 2.4.3
+## 2.4 Praktikum
+### 2.4.1 Percobaan
+* <img src="./ss/ssPercobaan2.4.1.jpeg">
+
+### 2.4.2 Hasil Percobaan
+* <img src="./ss/ssHasil.4.2.jpeg">
+
+### 2.4.3 Pertanyaan 
 1. Perhatikan class Barang yang ada di Praktikum 2.4.1, pada baris berapakah deklarasi
 konstruktor berparameter dilakukan?
 2. Perhatikan class BarangMain di Praktikum 2.4.1, apa sebenarnya yang dilakukan pada baris
@@ -76,3 +90,5 @@ B3.tampilBarang();
 Int hargaTotal = b3.hitungHargaTotal(2);
 Sytem.out.println(“Harga 2 buah =” + hargaTotal)
 
+## 2.5 Praktikum
+1. 
