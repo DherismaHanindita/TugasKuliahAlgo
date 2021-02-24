@@ -17,5 +17,14 @@ bilangan int?
 7. Menurut Anda, mengapa method hitungHargaTotal() memiliki tipe data int?
 8. Menurut Anda, mengapa method tambahStok() memiliki tipe data void?
 
-
+## tugas
+1. ss code sama output
+* <img src="./ss/ssnomor1.png">
+2. ss code sama output
+* <img src="./ss/ssnomor1.png">
+cb dah git oke siap
+3. Ss
+* <img src="./ss/ssnomor2.png">
+kalo dah gini sdh masuk kah? otomatis?
+oke
 * <img src="./ss/ssnomor2.png">

@@ -19,4 +19,4 @@ bilangan int?
 
 Jawaban
 1. Dher
-* <img src="./ss/ssnomor1.png">
+* <img src="./ss/ssnomor2.png">
