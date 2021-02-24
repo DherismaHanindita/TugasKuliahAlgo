@@ -30,3 +30,5 @@ Jawaban
 8.	Karena pada metod tambahStok() tidak memerlukan nilai kembalian yaitu hanya digunakan untuk menjalankan aksi tanpa menyimpan tipe data kembalian
 
 * <img src="./ss/ssnomor2.png">
+
+* <img src="./ss/ssnomor2.png">
