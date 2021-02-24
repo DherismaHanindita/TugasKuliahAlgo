@@ -44,7 +44,7 @@ tersebut? Sebutkan! Dan pada baris berapa saja deklarasi atribut dilakukan?
 
 ### 2.3.2 Hasil Percobaan
 Hasil yang di dapat akan sama dengan modul Jobsheet dan tidak ada pemberitahuan, karena nilai fungsi main sudah dijalankan di dalam program sehingga dapat memunculkan hasil output
-* <img src="./ss/ssPercobaan2.3.2.jpeg">
+* <img src="./ss/ssPercobaan2.3.1.jpeg">
 
 ### 2.3.3 Pertanyaan 
 1. Pada class BarangMain, pada baris berapakah proses instansiasi dilakukan? Dan apa nama objek
@@ -57,10 +57,10 @@ Jawaban
 
 ## 2.4 Praktikum
 ### 2.4.1 Percobaan
-* <img src="./ss/ssPercobaan2.4.1.jpeg">
+* <img src="./ss/ssPercobaan2.4.2.jpeg">
 
 ### 2.4.2 Hasil Percobaan
-* <img src="./ss/ssHasil.4.2.jpeg">
+* <img src="./ss/ssHasil2.4.2.jpeg">
 
 ### 2.4.3 Pertanyaan 
 1. Perhatikan class Barang yang ada di Praktikum 2.4.1, pada baris berapakah deklarasi
