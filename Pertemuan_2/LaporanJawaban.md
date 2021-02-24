@@ -45,7 +45,7 @@ Jawaban
 konstruktor berparameter dilakukan?
 2. Perhatikan class BarangMain di Praktikum 2.4.1, apa sebenarnya yang dilakukan pada baris
 program dibawah ini?
-* <img src="./ss/ssNomor1.png">
+* <img src="./ss/ssNomor1.jpeg">
 3. Coba buat objek dengan nama b3 dengan menggunakan konstruktor berparameter dari class
 Barang.
 
