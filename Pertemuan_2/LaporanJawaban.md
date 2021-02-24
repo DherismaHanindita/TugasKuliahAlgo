@@ -2,7 +2,7 @@
 ##### Dherisma Hanindita Utami
 ##### TI 1H_2041720018_09
 
-## 2.2
+## Praktikum 2.2
 ### Pertanyaan 2.2.3
 1. Sebutkan 2 karakteristik class/objek!
 2. Kata kunci apakah yang digunakan untuk mendeklarasikan class?
@@ -29,6 +29,42 @@ Jawaban
 7.	 Karena method tersebut digunakan untuk menghitung sebuah operasi matematika dan variabel jumlah yang dikali dengan variabel hargaSatuan, sehingga diperlukan tipe data kembalian berupa integer agar ketika dipanggil dimethod lain, method itu bisa menerima atau mendapatkan nilai dari perhitungan atau pengolahan data dari method hitungHargaTotal().
 8.	Karena pada metod tambahStok() tidak memerlukan nilai kembalian yaitu hanya digunakan untuk menjalankan aksi tanpa menyimpan tipe data kembalian
 
-* <img src="./ss/ssnomor2.png">
+## Praktikum 2.3
+### Pertanyaan 2.3.3
+1. Pada class BarangMain, pada baris berapakah proses instansiasi dilakukan? Dan apa nama objek
+yang dihasilkan?
+2. Bagaimana cara mengakses atribut dan method dari suatu objek?
 
-* <img src="./ss/ssnomor2.png">
+Jawaban
+1. Pada baris ke 6, terdapat instansiasi objek pada class barang dengan nama objek b1. Dengan syntax barang b1 = new barang();
+2.	Dengan cara  menginstansiasi barang b1 = new barang();
+
+## Praktikum 2.4
+### Pertanyaan 2.4.3
+1. Perhatikan class Barang yang ada di Praktikum 2.4.1, pada baris berapakah deklarasi
+konstruktor berparameter dilakukan?
+2. Perhatikan class BarangMain di Praktikum 2.4.1, apa sebenarnya yang dilakukan pada baris
+program dibawah ini?
+* <img src="./ss/ssNomor1.png">
+3. Coba buat objek dengan nama b3 dengan menggunakan konstruktor berparameter dari class
+Barang.
+
+Jawaban
+1. Barang (String nm, String jn, int st, int hs) {
+namaBarang = nm;
+jenisBarang = jn;
+stok = st;
+hargaSatuan = hs;
+}
+2.	Mengisi konstruktor yang tidak berparameter pada class main
+3.	Barang b3 = new barang ();
+B3.namaBarang = “ Wifi”;
+B3.jenisBarang = “4G”;
+B3.stok = 1;
+B3.hargaSatuan = 300000;
+B3.kurangStok(1);
+B3.tambahStok(5);
+B3.tampilBarang();
+Int hargaTotal = b3.hitungHargaTotal(2);
+Sytem.out.println(“Harga 2 buah =” + hargaTotal)
+
