@@ -26,7 +26,6 @@ Jawaban
 ### 3.3.1 Percobaan
 #### Hasil percobaan
 <img src="./ss/b1.jpeg">
-Hasil Ss
 
 ### 3.3.2 Hasil Percobaan
  <img src="./ss/b1.jpeg">
@@ -39,4 +38,15 @@ jawaban
 2. Contohnya sama seperti pada pemilihan atau looping dan memiliki nilai baris dan kolom [0][1]
 3. Eror (nilainya yang akan muncul yaitu eror), karena pembetulan yang benar seharusnya dituliskan nilai instance array of object yaitu
 pgArray[5]=new Persegi();
-4. 
+4. Hasil modif
+* <img src="./ss/b1.jpeg">
+5. Iya boleh, asalkan memiliki nilai instance array of object agar tidak menghasilkan eror.
+
+## 3.4 
+### 3.4.3 Pertanyaan
+* <img src="./ss/b1.jpeg">
+
+jawaban
+1. Boleh, tetapi harus memiliki parameter yang berbeda yaitu berbeda jumlah dan tipedatanya pada setiap konstruktor
+Contoh: * <img src="./ss/b1.jpeg">
+2. 
