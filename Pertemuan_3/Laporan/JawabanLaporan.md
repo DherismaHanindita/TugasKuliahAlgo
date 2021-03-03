@@ -7,4 +7,5 @@ TI 1H
 ### 3.2.1 Percobaan
 #### Hasil percobaan
 
-<img src="b1.jpeg">
+* <img src="./ss/b1.jpeg">
+Hasil Ss
