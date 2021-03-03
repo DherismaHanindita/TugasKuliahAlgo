@@ -6,14 +6,14 @@ TI 1H
 ## 3.2
 ### 3.2.1 Percobaan
 #### Hasil percobaan
-<img src="./ss/b1.jpeg">
+* <img src="./ss/1.jpeg">
 Hasil Ss
 
 ### 3.2.2 Hasil Percobaan
- <img src="./ss/b1.jpeg">
+ <img src="./ss/2.jpeg">
 
 ### 3.2.3 Pertanyaan
-* <img src="./ss/b1.jpeg">
+* <img src="./ss/3.jpeg">
 
 Jawaban 
 1. Iya menggunakan atribut dan method karena output yang keluar harus sesuai dengan atribut dan methodnya
@@ -25,13 +25,13 @@ Jawaban
 ## 3.3
 ### 3.3.1 Percobaan
 #### Hasil percobaan
-<img src="./ss/b1.jpeg">
+<img src="./ss/4.jpeg">
 
 ### 3.3.2 Hasil Percobaan
- <img src="./ss/b1.jpeg">
+ <img src="./ss/5.jpeg">
 
 ### 3.3.3 Pertanyaan
-* <img src="./ss/b1.jpeg">
+* <img src="./ss/6.jpeg">
 
 jawaban
 1. Iya bisa, dan hasil outputnya akan memiliki nilai kolom dan baris dan memiliki 2 indexs
@@ -39,14 +39,40 @@ jawaban
 3. Eror (nilainya yang akan muncul yaitu eror), karena pembetulan yang benar seharusnya dituliskan nilai instance array of object yaitu
 pgArray[5]=new Persegi();
 4. Hasil modif
-* <img src="./ss/b1.jpeg">
+* <img src="./ss/7.jpeg">
 5. Iya boleh, asalkan memiliki nilai instance array of object agar tidak menghasilkan eror.
 
 ## 3.4 
 ### 3.4.3 Pertanyaan
-* <img src="./ss/b1.jpeg">
+* <img src="./ss/8.jpeg">
 
 jawaban
 1. Boleh, tetapi harus memiliki parameter yang berbeda yaitu berbeda jumlah dan tipedatanya pada setiap konstruktor
-Contoh: * <img src="./ss/b1.jpeg">
-2. 
+Contoh: * <img src="./ss/9.jpeg">
+2. Hasil
+* <img src="./ss/10.jpeg">
+3. 4. 5. 
+jawaban sama
+* <img src="./ss/11.jpeg">
+
+## 3.5 Praktikum
+1. Bangun Ruang
+* <img src="./ss/13.jpeg">
+* <img src="./ss/12.jpeg">
+* <img src="./ss/14.jpeg">
+* <img src="./ss/15.jpeg">
+* <img src="./ss/16.jpeg">
+* <img src="./ss/17.jpeg">
+2. Tanah
+* <img src="./ss/18.jpeg">
+* <img src="./ss/19.jpeg">
+3. Modif Tanah
+* <img src="./ss/20.jpeg">
+* <img src="./ss/21.jpeg">
+4. Mahasiswa
+* <img src="./ss/22.jpeg">
+* <img src="./ss/23.jpeg">
+5. Modif Mahasiswa
+* <img src="./ss/24.jpeg">
+* <img src="./ss/25.jpeg">
+
