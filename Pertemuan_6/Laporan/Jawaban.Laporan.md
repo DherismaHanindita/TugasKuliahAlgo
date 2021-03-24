@@ -19,18 +19,14 @@ Jawaban
 5. Perulangan BubbleSort()
 <img src="./ss/2.jpeg">
 
-    A. Perbedan antara perulangan i dan j adalah :
-        
-        Jika i berfungsi untuk perulangan yang ada di luar sedangkan pada perulangan j proses yang dijalankan adalah perbandingan seluruh elemen di array
-    B. Syarat dari perulangan i adalah i<listMhs.length-1, karena:
-        
-        untuk melakukan perulangan sebanyak inputan yang dimasukkan pada n
-    C. Syarat dari perulangan j adalah j<listMhs.length-i, karena:
-
-        untuk mengulang inputan pada n, dan akan berjalan sampai data pada elemen terakhir terlah terurut
-    D. Tahap bubble sort yang ditempuh :
-
-        Mungkin perkiraan yang terjadi sekiatr 50 - 80 kali
+    A. Perbedan antara perulangan i dan j adalah : 
+    Jika i berfungsi untuk perulangan yang ada di luar sedangkan pada perulangan j proses yang dijalankan adalah perbandingan seluruh elemen di array
+    
+    B. Syarat dari perulangan i adalah i<listMhs.length-1, karena: untuk melakukan perulangan sebanyak inputan yang dimasukkan pada n
+    
+    C. Syarat dari perulangan j adalah j<listMhs.length-i, karena:        untuk mengulang inputan pada n, dan akan berjalan sampai data pada elemen terakhir terlah terurut
+    
+    D. Tahap bubble sort yang ditempuh : Mungkin perkiraan yang terjadi sekiatr 50 - 80 kali
 
 ## 5.3
 ### 5.3.3 Pertanyaan
@@ -43,3 +39,27 @@ Ubahlah fungsi pada InsertionSort sehingga fungsi ini dapat melaksanakan proses 
 dengan cara ascending atau decending, anda dapat melakukannya dengan menambahkan 
 parameter pada pemanggilan fungsi insertionSort
 <img src="./ss/4.jpeg"> 
+
+Hasil Modif
+<img src="./ss/5.jpeg"> 
+
+## 5.5 Latihan Praktikum
+1. Hasil :
+
+* <img src="./ss/11.jpeg">  
+* <img src="./ss/10.jpeg"> 
+* <img src="./ss/9.jpeg">
+* <img src="./ss/8.jpeg">
+* <img src="./ss/7.jpeg"> 
+* <img src="./ss/6.jpeg"> 
+* <img src="./ss/12.jpeg"> 
+* <img src="./ss/13.jpeg"> 
+
+2. Hasil
+
+* <img src="./ss/14.jpeg"> 
+* <img src="./ss/15.jpeg"> 
+* <img src="./ss/16.jpeg"> 
+* <img src="./ss/17.jpeg"> 
+* <img src="./ss/18.jpeg"> 
+* <img src="./ss/19.jpeg"> 
