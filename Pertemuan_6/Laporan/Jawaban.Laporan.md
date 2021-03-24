@@ -42,4 +42,4 @@ Proses diatas untuk menentukan nilai output dari yang terkecil dari datayang ber
 Ubahlah fungsi pada InsertionSort sehingga fungsi ini dapat melaksanakan proses sorting 
 dengan cara ascending atau decending, anda dapat melakukannya dengan menambahkan 
 parameter pada pemanggilan fungsi insertionSort
-<img src="./ss/4.jpeg">
+<img src="./ss/4.jpeg"> 
