@@ -14,7 +14,7 @@ package Praktikum1;
  */
 import java.util.Scanner; 
 public class StackMain {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
         Stack stk = new Stack(5);
@@ -34,5 +34,5 @@ public class StackMain {
         stk.push(18);
         stk.push(40);
         stk.print();
-    }
+     }
 }

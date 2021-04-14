@@ -13,8 +13,7 @@ package Praktikum1;
  * Kelas   : TI 1H
  */
 public class Stack {
-    int size;
-    int top;
+ int size, top;
     int data[];
     
     Stack(int size){
@@ -24,19 +23,11 @@ public class Stack {
     }
     
     boolean isEmpty(){
-        if(top == -1){
-            return true;
-        }else{
-            return false;
-        }
+     return top == -1;
     }
     
     boolean isFull(){
-        if(top == size -1){
-            return true;
-        }else{
-            return false;
-        }
+     return top == size -1;
     }
     
     void push(int dt){
@@ -44,7 +35,7 @@ public class Stack {
             top++;
             data[top] = dt;
         }else{
-            System.out.println("STACK PENUH!!");
+            System.out.println("Isi stack penuh!!");
         }
     }
     
@@ -57,7 +48,7 @@ public class Stack {
             System.out.println("Isi stack masih kosong");
         }
     }
-     
+    
     void peek(){
         System.out.println("Elemen teratas : " + data[top]);
     }
@@ -77,7 +68,7 @@ public class Stack {
             }
             System.out.println("Stack sudah dikosongkan");
         }else{
-            System.out.println("GAGAL!, Stack masih kosong!");
+            System.out.println("Gagal!, Stack masih kosong!");
         }
     }
 }
