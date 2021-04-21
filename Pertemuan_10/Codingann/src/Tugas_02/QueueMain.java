@@ -7,7 +7,10 @@ package Tugas_02;
 
 /**
  *
- * @author Holla
+ * @author Dherisma 
+ * Nama    : Dherisma Hanindita Utami
+ * NIM/ No : 2041720018/09
+ * Kelas   : TI 1H
  */
 import java.util.Scanner;
 public class QueueMain {
