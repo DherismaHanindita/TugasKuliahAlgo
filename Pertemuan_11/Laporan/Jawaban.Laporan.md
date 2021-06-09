@@ -35,7 +35,7 @@ Jawaban
 3. Kembalian yang pertama adalah -1 jika data yng dicari tidak ada atau tidak ditemukan. Kembalian yang kedua adalah nilai indeks jika data ditemukan
 
 ## 9.4 Tugas
-## Pertanyaan
+### Pertanyaan
 <img src="./ss/3.jpeg">
 
 1.  
